@@ -31,6 +31,7 @@ public class ServletAfficherRepas extends HttpServlet {
      */
     public ServletAfficherRepas() {
         super();
+        System.out.println("test");
     }
 
 	/**
